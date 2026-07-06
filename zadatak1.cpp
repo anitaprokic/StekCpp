@@ -1,6 +1,6 @@
-#inlcude <iosteam>
+#inlcude <iostream>
 #include <stack>
-usinig namespace std;
+using namespace std;
 int main(){
 //Zadatak vredi 6 boda
 //Napisati program koji kreira stek celih brojeva, ubaciti brojeve 23, 28, 33, 42.
